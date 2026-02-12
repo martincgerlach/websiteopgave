@@ -72,16 +72,21 @@ main {
     flex-direction: column;
     gap: 20px;
 }
+.flex_col {
+    background-color: #ffffff;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+
 
 /* COMPONENT SECTIONS */
 
-.component-section {
+.component-grid {
     margin-bottom: 80px;
 }
 
-.component-section:last-child {
-    margin-bottom: 0;
-}
 
 /* 
    IMAGES

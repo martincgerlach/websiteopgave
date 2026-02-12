@@ -16,12 +16,12 @@ body {
     font-size: 18px;
     line-height: 1.7;
     color: #1e293b;
-    background-color: #f8fafc;
+    background-color: antiquewhite;
 }
 
 h1, h2, h3 {
     font-family: 'Inter', sans-serif;
-    color: #1F3A3A;
+    color: #00674f;
 }
 
 h1 {
@@ -101,7 +101,7 @@ footer {
     padding: 40px 20px;
     margin-top: 80px;
     border-top: 2px solid #e2e8f0;
-    color: #64748b;
+    color: #00674f;
 }
 
 /* Definition list styling */
@@ -111,7 +111,7 @@ dl {
 
 dt {
     font-weight: bold;
-    color: #1F3A3A;
+    color: #00674f;
     margin-bottom: 5px;
 }
 
