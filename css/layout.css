@@ -193,4 +193,7 @@ h2 {
     .gallery-grid img {
         height: auto;
     }
+ .gallery-grid {
+  grid-template-columns: 1fr,1fr
+
 }
