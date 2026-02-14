@@ -192,9 +192,12 @@ h2 {
     /* Gallery gets its OWN rules */
 
     .gallery-grid {
-        grid-template-columns: repeat(2, 1fr);
+        
+    grid-template-columns: repeat(2, 1fr);
     }
-
+.gallery-grid img {
+    object-fit: cover;
+}
     /* Mobil wireframe */
 
     .g1 { grid-column: 1 / 3; }
